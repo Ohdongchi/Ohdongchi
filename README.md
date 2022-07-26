@@ -1,5 +1,5 @@
 ### 안녕하세요. 포기라는 단어가 가장 싫은 백엔드 개발자 오동형입니다. 👋
-
+<br/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> 
@@ -18,6 +18,5 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> 
-
-
+<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohdongchi&show_icons=true&theme=radical)
