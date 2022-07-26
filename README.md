@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Redux-Saga-#999999?style=flat-square&logo=Redux-Saga&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Redux-Saga-#999999?style=flat-square&logo=ReduxSaga&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> 
