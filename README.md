@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요. 포기라는 단어가 가장 싫은 백엔드 개발자 오동형입니다. 👋
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
